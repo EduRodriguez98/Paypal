@@ -1,4 +1,0 @@
-grant codeBase "file:../-" {
-
-    permission java.net.SocketPermission "*:1024-", "connect,accept";
-};
